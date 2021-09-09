@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myFallDetection</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_number">緊急聯絡人電話</string>
+    <string name="phone_sample">09XXXXXXXX</string>
+    <string name="contact_text">聯絡訊息</string>
+    <string name="contact_message">我跌倒了！</string>
+    <string name="btn_start">START</string>
+</resources>
